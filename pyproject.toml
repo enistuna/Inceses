@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "inceseslem"
+name = "inceses"
 version = "1.0"
 authors = [
   { name="Enis Tuna", email="enissstuna@gmail.com" },
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/enistuna/inceseslem_turkish_phonetic_transcriptor"
-Issues = "https://github.com/enistuna/inceseslem_turkish_phonetic_transcriptor"
+Homepage = "https://github.com/enistuna/inceses_turkish_phonetic_transcriptor"
+Issues = "https://github.com/enistuna/inceses_turkish_phonetic_transcriptor"
