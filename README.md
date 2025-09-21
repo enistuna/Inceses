@@ -9,7 +9,7 @@ The function was first developed using the **Özgün Koşaner's** lecture notes 
 Finally, put the Turkish word you want to transcript in the quotation marks and run the code
 
 ## Installation ##
-* To use the Turkish phonetic transciptor, first install the Python package using the pip command.
+* To use the Turkish phonetic transciptor, first install the Python package using the pip command. Feel free to also check out the [PyPI page](https://pypi.org/project/inceses/1.0/).
 ```
 pip install inceses
 ```
