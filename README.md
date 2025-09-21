@@ -6,3 +6,10 @@ The function was first developed using the Özgün Koşaner's lecture notes from
 ## Usage ##
 * To use it, simply import the Python package and write the "inceseslem.phonetic_analysis('')" line of code. 
 Finally, put the Turkish word you want to transcript in the quotation marks and run the code
+
+
+"""py
+import inceseslem
+
+print(inceseslem.phonetic_analysis('enis tuna burada mı?'))
+"""
