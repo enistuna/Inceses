@@ -1,6 +1,6 @@
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "inceses"
@@ -10,7 +10,8 @@ authors = [
 ]
 description = "Turkish Phonetic Transcriptor for Python by Enis Tuna"
 readme = "README.md"
-requires-python = ">=3.0"
+requires-python = ">=3.10"
+dependencies = []
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",

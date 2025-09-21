@@ -1,3 +1,18 @@
+Metadata-Version: 2.4
+Name: inceses
+Version: 1.0
+Summary: Turkish Phonetic Transcriptor for Python by Enis Tuna
+Author-email: Enis Tuna <enissstuna@gmail.com>
+Project-URL: Homepage, https://github.com/enistuna/inceses_turkish_phonetic_transcriptor
+Project-URL: Issues, https://github.com/enistuna/inceses_turkish_phonetic_transcriptor
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # İnceses - Turkish Phonetic Transcriptor
 
 
