@@ -1,3 +1,5 @@
+<img width="1260" height="267" alt="inceses_logo" src="https://github.com/user-attachments/assets/0d9ad494-afe1-409f-b694-295a24c104c5" />
+
 **<h1>İnceses - Turkish Phonetic Transcriptor</h1>**
 *  The phonetic transcriptor function was first written for the [İncesöz](https://github.com/enistuna/Incesoz) project in 2024 and is now being used for its own Python package for easier deployment and usability.
 The function was first developed using the **Özgün Koşaner's** lecture notes from the Phonetics class at *Dokuz Eylul University's Linguistics* department.
